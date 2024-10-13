@@ -4,15 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> About page </title>
+    <title>Contact Page</title>
 </head>
 <body>
 
-    <a href="/"> Home </a>
+    <h1> Contact Page </h1>
 
-    <a href="/about"> About </a>
+    <ul>
 
-    <h1> About Page </h1>
-
+        <li><a href="https://www.instagram.com">Instagram</a></li>
+    </ul>
+    
 </body>
 </html>
